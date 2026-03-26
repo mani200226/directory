@@ -1,0 +1,15 @@
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.user-table th {
+  cursor: pointer;
+  background: #f4f4f4;
+}
